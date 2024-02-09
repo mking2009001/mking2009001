@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on {none}
 - 📫 How to reach me mking2009001@gmail.com
-- 😄 Pronouns: 
 - ⚡ Fun fact: I'm student❗ and from Uzbekistan✔
 
 <!---
