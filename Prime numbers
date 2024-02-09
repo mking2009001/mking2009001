@@ -1,1 +1,15 @@
-Identify prime numbers
+tub_sonlar=[]
+tub_sonlar_soni=0
+for son in range(2,1001):
+k=0
+    qiymat=0
+    while k<son:
+        k+=1
+        if son%k==0:
+            qiymat+=1
+    if qiymat>=3:
+        pass
+    else:
+        tub_sonlar.append(son)
+        tub_sonlar_soni+=1
+print(tub_sonlar)
